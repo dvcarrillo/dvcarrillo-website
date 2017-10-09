@@ -1,2 +1,2 @@
 # dvcarrillo-website
-[www.dvcarrillo.com](dvcarrillo.com)
+[dvcarrillo.com](http://www.dvcarrillo.com)
