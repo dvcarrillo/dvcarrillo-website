@@ -1,0 +1,141 @@
+Feb 19 18:59:21 10.71.51.12 u90822722 Connection from 10.71.51.12 port 31906 on 217.160.62.52 port 22
+Feb 19 18:59:22 10.71.51.12 u90822722 Accepted password for u90822722 from 10.71.51.12 port 31906 ssh2
+Feb 19 18:59:22 10.71.51.12 u90822722 Starting session: subsystem 'sftp' for u90822722 from 10.71.51.12 port 31906
+Feb 19 18:59:22 10.71.51.12 u90822722 session opened for local user u90822722 from [10.71.51.12]
+Feb 19 19:00:24 10.71.51.12 u90822722 Connection from 10.71.51.12 port 24240 on 217.160.62.52 port 22
+Feb 19 19:00:25 10.71.51.12 u90822722 Accepted password for u90822722 from 10.71.51.12 port 24240 ssh2
+Feb 19 19:00:24 10.71.51.12 u90822722 Connection from 10.71.51.12 port 24238 on 217.160.62.52 port 22
+Feb 19 19:00:25 10.71.51.12 u90822722 Accepted password for u90822722 from 10.71.51.12 port 24238 ssh2
+Feb 19 19:00:25 10.71.51.12 u90822722 Starting session: subsystem 'sftp' for u90822722 from 10.71.51.12 port 24240
+Feb 19 19:00:25 10.71.51.12 u90822722 session opened for local user u90822722 from [10.71.51.12]
+Feb 19 19:00:25 10.71.51.12 u90822722 Starting session: subsystem 'sftp' for u90822722 from 10.71.51.12 port 24238
+Feb 19 19:00:25 10.71.51.12 u90822722 session opened for local user u90822722 from [10.71.51.12]
+Feb 19 19:00:26 10.71.51.12 u90822722 open "/.git" flags READ mode 0666
+Feb 19 19:00:26 10.71.51.12 u90822722 open "/.DS_Store" flags READ mode 0666
+Feb 19 19:00:26 10.71.51.12 u90822722 close "/.DS_Store" bytes read 6148 written 0
+Feb 19 19:00:26 10.71.51.12 u90822722 [10.71.51.12|get|0|6148|0|0|0|2f2e44535f53746f7265|]
+Feb 19 19:00:26 10.71.51.12 u90822722 close "/.git" bytes read 31 written 0
+Feb 19 19:00:26 10.71.51.12 u90822722 [10.71.51.12|get|0|31|0|0|0|2f2e676974|]
+Feb 19 19:00:26 10.71.51.12 u90822722 open "/404.html" flags READ mode 0666
+Feb 19 19:00:26 10.71.51.12 u90822722 open "/LICENSE" flags READ mode 0666
+Feb 19 19:00:26 10.71.51.12 u90822722 close "/404.html" bytes read 3616 written 0
+Feb 19 19:00:26 10.71.51.12 u90822722 [10.71.51.12|get|0|3616|0|0|0|2f3430342e68746d6c|]
+Feb 19 19:00:26 10.71.51.12 u90822722 close "/LICENSE" bytes read 1069 written 0
+Feb 19 19:00:26 10.71.51.12 u90822722 [10.71.51.12|get|0|1069|0|0|0|2f4c4943454e5345|]
+Feb 19 19:00:26 10.71.51.12 u90822722 open "/index.xml" flags READ mode 0666
+Feb 19 19:00:26 10.71.51.12 u90822722 open "/index.html" flags READ mode 0666
+Feb 19 19:00:26 10.71.51.12 u90822722 close "/index.xml" bytes read 474 written 0
+Feb 19 19:00:26 10.71.51.12 u90822722 [10.71.51.12|get|0|474|0|0|0|2f696e6465782e786d6c|]
+Feb 19 19:00:26 10.71.51.12 u90822722 close "/index.html" bytes read 9948 written 0
+Feb 19 19:00:26 10.71.51.12 u90822722 [10.71.51.12|get|0|9948|0|0|0|2f696e6465782e68746d6c|]
+Feb 19 19:00:27 10.71.51.12 u90822722 open "/sitemap.xml" flags READ mode 0666
+Feb 19 19:00:27 10.71.51.12 u90822722 open "/categories/index.html" flags READ mode 0666
+Feb 19 19:00:27 10.71.51.12 u90822722 close "/sitemap.xml" bytes read 458 written 0
+Feb 19 19:00:27 10.71.51.12 u90822722 [10.71.51.12|get|0|458|0|0|0|2f736974656d61702e786d6c|]
+Feb 19 19:00:27 10.71.51.12 u90822722 close "/categories/index.html" bytes read 3271 written 0
+Feb 19 19:00:27 10.71.51.12 u90822722 [10.71.51.12|get|0|3271|0|0|0|2f63617465676f726965732f696e6465782e68746d6c|]
+Feb 19 19:00:27 10.71.51.12 u90822722 open "/categories/index.xml" flags READ mode 0666
+Feb 19 19:00:27 10.71.51.12 u90822722 open "/categories/page/1/index.html" flags READ mode 0666
+Feb 19 19:00:27 10.71.51.12 u90822722 close "/categories/index.xml" bytes read 524 written 0
+Feb 19 19:00:27 10.71.51.12 u90822722 [10.71.51.12|get|0|524|0|0|0|2f63617465676f726965732f696e6465782e786d6c|]
+Feb 19 19:00:27 10.71.51.12 u90822722 close "/categories/page/1/index.html" bytes read 352 written 0
+Feb 19 19:00:27 10.71.51.12 u90822722 [10.71.51.12|get|0|352|0|0|0|2f63617465676f726965732f706167652f312f696e6465782e68746d6c|]
+Feb 19 19:00:27 10.71.51.12 u90822722 open "/css/main.css" flags READ mode 0666
+Feb 19 19:00:27 10.71.51.12 u90822722 open "/css/ie8.css" flags READ mode 0666
+Feb 19 19:00:28 10.71.51.12 u90822722 close "/css/main.css" bytes read 51935 written 0
+Feb 19 19:00:28 10.71.51.12 u90822722 [10.71.51.12|get|1|51935|0|0|0|2f6373732f6d61696e2e637373|]
+Feb 19 19:00:28 10.71.51.12 u90822722 close "/css/ie8.css" bytes read 1230 written 0
+Feb 19 19:00:28 10.71.51.12 u90822722 [10.71.51.12|get|1|1230|0|0|0|2f6373732f6965382e637373|]
+Feb 19 19:00:28 10.71.51.12 u90822722 open "/css/.DS_Store" flags READ mode 0666
+Feb 19 19:00:28 10.71.51.12 u90822722 close "/css/.DS_Store" bytes read 6148 written 0
+Feb 19 19:00:28 10.71.51.12 u90822722 [10.71.51.12|get|0|6148|0|0|0|2f6373732f2e44535f53746f7265|]
+Feb 19 19:00:28 10.71.51.12 u90822722 open "/css/images/overlay.png" flags READ mode 0666
+Feb 19 19:00:28 10.71.51.12 u90822722 close "/css/images/overlay.png" bytes read 24034 written 0
+Feb 19 19:00:28 10.71.51.12 u90822722 [10.71.51.12|get|0|24034|0|0|0|2f6373732f696d616765732f6f7665726c61792e706e67|]
+Feb 19 19:00:28 10.71.51.12 u90822722 open "/images/bg.jpg" flags READ mode 0666
+Feb 19 19:00:28 10.71.51.12 u90822722 close "/images/bg.jpg" bytes read 168249 written 0
+Feb 19 19:00:28 10.71.51.12 u90822722 [10.71.51.12|get|0|168249|0|0|0|2f696d616765732f62672e6a7067|]
+Feb 19 19:00:28 10.71.51.12 u90822722 open "/images/.DS_Store" flags READ mode 0666
+Feb 19 19:00:28 10.71.51.12 u90822722 open "/images/avatar.jpg" flags READ mode 0666
+Feb 19 19:00:28 10.71.51.12 u90822722 close "/images/.DS_Store" bytes read 6148 written 0
+Feb 19 19:00:28 10.71.51.12 u90822722 [10.71.51.12|get|0|6148|0|0|0|2f696d616765732f2e44535f53746f7265|]
+Feb 19 19:00:29 10.71.51.12 u90822722 close "/images/avatar.jpg" bytes read 15080 written 0
+Feb 19 19:00:29 10.71.51.12 u90822722 [10.71.51.12|get|1|15080|0|0|0|2f696d616765732f6176617461722e6a7067|]
+Feb 19 19:00:29 10.71.51.12 u90822722 open "/images/fulls/full_ugr.jpg" flags READ mode 0666
+Feb 19 19:00:29 10.71.51.12 u90822722 open "/images/fulls/full_lut.jpg" flags READ mode 0666
+Feb 19 19:00:29 10.71.51.12 u90822722 sent status No such file
+Feb 19 19:00:29 10.71.51.12 u90822722 close "/images/fulls/full_ugr.jpg" bytes read 497044 written 0
+Feb 19 19:00:29 10.71.51.12 u90822722 [10.71.51.12|get|0|497044|0|0|0|2f696d616765732f66756c6c732f66756c6c5f7567722e6a7067|]
+Feb 19 19:00:29 10.71.51.12 u90822722 close "/images/fulls/full_lut.jpg" bytes read 495523 written 0
+Feb 19 19:00:29 10.71.51.12 u90822722 [10.71.51.12|get|0|495523|0|0|0|2f696d616765732f66756c6c732f66756c6c5f6c75742e6a7067|]
+Feb 19 19:00:29 10.71.51.12 u90822722 open "/images/fulls/full_compass.jpg" flags READ mode 0666
+Feb 19 19:00:29 10.71.51.12 u90822722 open "/images/fulls/.DS_Store" flags READ mode 0666
+Feb 19 19:00:29 10.71.51.12 u90822722 close "/images/fulls/.DS_Store" bytes read 6148 written 0
+Feb 19 19:00:29 10.71.51.12 u90822722 [10.71.51.12|get|0|6148|0|0|0|2f696d616765732f66756c6c732f2e44535f53746f7265|]
+Feb 19 19:00:30 10.71.51.12 u90822722 close "/images/fulls/full_compass.jpg" bytes read 496711 written 0
+Feb 19 19:00:30 10.71.51.12 u90822722 [10.71.51.12|get|1|496711|0|0|0|2f696d616765732f66756c6c732f66756c6c5f636f6d706173732e6a7067|]
+Feb 19 19:00:30 10.71.51.12 u90822722 open "/images/thumbs/thumb_jensen.jpg" flags READ mode 0666
+Feb 19 19:00:30 10.71.51.12 u90822722 open "/images/thumbs/thumb_ugr.jpg" flags READ mode 0666
+Feb 19 19:00:30 10.71.51.12 u90822722 close "/images/thumbs/thumb_jensen.jpg" bytes read 24733 written 0
+Feb 19 19:00:30 10.71.51.12 u90822722 [10.71.51.12|get|0|24733|0|0|0|2f696d616765732f7468756d62732f7468756d625f6a656e73656e2e6a7067|]
+Feb 19 19:00:30 10.71.51.12 u90822722 open "/images/thumbs/thumb_lut.jpg" flags READ mode 0666
+Feb 19 19:00:30 10.71.51.12 u90822722 close "/images/thumbs/thumb_ugr.jpg" bytes read 40777 written 0
+Feb 19 19:00:30 10.71.51.12 u90822722 [10.71.51.12|get|0|40777|0|0|0|2f696d616765732f7468756d62732f7468756d625f7567722e6a7067|]
+Feb 19 19:00:30 10.71.51.12 u90822722 open "/images/thumbs/thumb_dh15.jpg" flags READ mode 0666
+Feb 19 19:00:30 10.71.51.12 u90822722 close "/images/thumbs/thumb_lut.jpg" bytes read 15971 written 0
+Feb 19 19:00:30 10.71.51.12 u90822722 [10.71.51.12|get|0|15971|0|0|0|2f696d616765732f7468756d62732f7468756d625f6c75742e6a7067|]
+Feb 19 19:00:30 10.71.51.12 u90822722 close "/images/thumbs/thumb_dh15.jpg" bytes read 21254 written 0
+Feb 19 19:00:30 10.71.51.12 u90822722 [10.71.51.12|get|0|21254|0|0|0|2f696d616765732f7468756d62732f7468756d625f646831352e6a7067|]
+Feb 19 19:00:30 10.71.51.12 u90822722 open "/images/thumbs/.DS_Store" flags READ mode 0666
+Feb 19 19:00:31 10.71.51.12 u90822722 open "/images/thumbs/thumb_compass.jpg" flags READ mode 0666
+Feb 19 19:00:31 10.71.51.12 u90822722 close "/images/thumbs/.DS_Store" bytes read 6148 written 0
+Feb 19 19:00:31 10.71.51.12 u90822722 [10.71.51.12|get|1|6148|0|0|0|2f696d616765732f7468756d62732f2e44535f53746f7265|]
+Feb 19 19:00:31 10.71.51.12 u90822722 close "/images/thumbs/thumb_compass.jpg" bytes read 20531 written 0
+Feb 19 19:00:31 10.71.51.12 u90822722 [10.71.51.12|get|0|20531|0|0|0|2f696d616765732f7468756d62732f7468756d625f636f6d706173732e6a7067|]
+Feb 19 19:00:31 10.71.51.12 u90822722 open "/js/util.js" flags READ mode 0666
+Feb 19 19:00:31 10.71.51.12 u90822722 close "/js/util.js" bytes read 12433 written 0
+Feb 19 19:00:31 10.71.51.12 u90822722 [10.71.51.12|get|0|12433|0|0|0|2f6a732f7574696c2e6a73|]
+Feb 19 19:00:31 10.71.51.12 u90822722 open "/js/skel.min.js" flags READ mode 0666
+Feb 19 19:00:31 10.71.51.12 u90822722 open "/js/main.js" flags READ mode 0666
+Feb 19 19:00:31 10.71.51.12 u90822722 close "/js/skel.min.js" bytes read 9007 written 0
+Feb 19 19:00:31 10.71.51.12 u90822722 [10.71.51.12|get|0|9007|0|0|0|2f6a732f736b656c2e6d696e2e6a73|]
+Feb 19 19:00:31 10.71.51.12 u90822722 close "/js/main.js" bytes read 2715 written 0
+Feb 19 19:00:31 10.71.51.12 u90822722 [10.71.51.12|get|0|2715|0|0|0|2f6a732f6d61696e2e6a73|]
+Feb 19 19:00:31 10.71.51.12 u90822722 open "/js/jquery.poptrox.min.js" flags READ mode 0666
+Feb 19 19:00:31 10.71.51.12 u90822722 open "/js/.DS_Store" flags READ mode 0666
+Feb 19 19:00:31 10.71.51.12 u90822722 close "/js/jquery.poptrox.min.js" bytes read 11948 written 0
+Feb 19 19:00:31 10.71.51.12 u90822722 [10.71.51.12|get|0|11948|0|0|0|2f6a732f6a71756572792e706f7074726f782e6d696e2e6a73|]
+Feb 19 19:00:32 10.71.51.12 u90822722 close "/js/.DS_Store" bytes read 6148 written 0
+Feb 19 19:00:32 10.71.51.12 u90822722 [10.71.51.12|get|1|6148|0|0|0|2f6a732f2e44535f53746f7265|]
+Feb 19 19:00:32 10.71.51.12 u90822722 open "/js/jquery.min.js" flags READ mode 0666
+Feb 19 19:00:32 10.71.51.12 u90822722 close "/js/jquery.min.js" bytes read 95957 written 0
+Feb 19 19:00:32 10.71.51.12 u90822722 [10.71.51.12|get|0|95957|0|0|0|2f6a732f6a71756572792e6d696e2e6a73|]
+Feb 19 19:00:32 10.71.51.12 u90822722 open "/js/ie/respond.min.js" flags READ mode 0666
+Feb 19 19:00:32 10.71.51.12 u90822722 close "/js/ie/respond.min.js" bytes read 4591 written 0
+Feb 19 19:00:32 10.71.51.12 u90822722 [10.71.51.12|get|0|4591|0|0|0|2f6a732f69652f726573706f6e642e6d696e2e6a73|]
+Feb 19 19:00:32 10.71.51.12 u90822722 open "/js/ie/PIE.htc" flags READ mode 0666
+Feb 19 19:00:32 10.71.51.12 u90822722 open "/js/ie/backgroundsize.min.htc" flags READ mode 0666
+Feb 19 19:00:32 10.71.51.12 u90822722 close "/js/ie/PIE.htc" bytes read 41041 written 0
+Feb 19 19:00:32 10.71.51.12 u90822722 [10.71.51.12|get|0|41041|0|0|0|2f6a732f69652f5049452e687463|]
+Feb 19 19:00:32 10.71.51.12 u90822722 close "/js/ie/backgroundsize.min.htc" bytes read 3810 written 0
+Feb 19 19:00:32 10.71.51.12 u90822722 [10.71.51.12|get|0|3810|0|0|0|2f6a732f69652f6261636b67726f756e6473697a652e6d696e2e687463|]
+Feb 19 19:00:32 10.71.51.12 u90822722 open "/js/ie/html5shiv.js" flags READ mode 0666
+Feb 19 19:00:32 10.71.51.12 u90822722 close "/js/ie/html5shiv.js" bytes read 2380 written 0
+Feb 19 19:00:32 10.71.51.12 u90822722 [10.71.51.12|get|0|2380|0|0|0|2f6a732f69652f68746d6c35736869762e6a73|]
+Feb 19 19:00:33 10.71.51.12 u90822722 open "/logs/access.log.08.1" flags READ mode 0666
+Feb 19 19:00:33 10.71.51.12 u90822722 close "/logs/access.log.08.1" bytes read 15929 written 0
+Feb 19 19:00:33 10.71.51.12 u90822722 [10.71.51.12|get|0|15929|0|0|0|2f6c6f67732f6163636573732e6c6f672e30382e31|]
+Feb 19 19:00:33 10.71.51.12 u90822722 open "/logs/access.log.07.5.gz" flags READ mode 0666
+Feb 19 19:00:33 10.71.51.12 u90822722 open "/logs/access.log.07.2.gz" flags READ mode 0666
+Feb 19 19:00:33 10.71.51.12 u90822722 close "/logs/access.log.07.5.gz" bytes read 2376 written 0
+Feb 19 19:00:33 10.71.51.12 u90822722 [10.71.51.12|get|0|2376|0|0|0|2f6c6f67732f6163636573732e6c6f672e30372e352e677a|]
+Feb 19 19:00:33 10.71.51.12 u90822722 close "/logs/access.log.07.2.gz" bytes read 1021 written 0
+Feb 19 19:00:33 10.71.51.12 u90822722 [10.71.51.12|get|0|1021|0|0|0|2f6c6f67732f6163636573732e6c6f672e30372e322e677a|]
+Feb 19 19:00:33 10.71.51.12 u90822722 open "/logs/access.log.01.gz" flags READ mode 0666
+Feb 19 19:00:33 10.71.51.12 u90822722 open "/logs/access.log.07.4.gz" flags READ mode 0666
+Feb 19 19:00:33 10.71.51.12 u90822722 close "/logs/access.log.01.gz" bytes read 1132 written 0
+Feb 19 19:00:33 10.71.51.12 u90822722 [10.71.51.12|get|0|1132|0|0|0|2f6c6f67732f6163636573732e6c6f672e30312e677a|]
+Feb 19 19:00:33 10.71.51.12 u90822722 close "/logs/access.log.07.4.gz" bytes read 789 written 0
+Feb 19 19:00:33 10.71.51.12 u90822722 [10.71.51.12|get|0|789|0|0|0|2f6c6f67732f6163636573732e6c6f672e30372e342e677a|]
+Feb 19 19:00:33 10.71.51.12 u90822722 open "/logs/sftp.log" flags READ mode 0666
+Feb 19 19:00:33 10.71.51.12 u90822722 open "/logs/access.log.06.gz" flags READ mode 0666
