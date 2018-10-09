@@ -31,7 +31,7 @@ disqusShortname = "dvcarrillo"
 # Social links
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github fa-2x"
+    icon = "fab fa-github-square fa-2x"
     weight = 1
     url = "https://github.com/dvcarrillo/"
 [[params.social]]
@@ -44,6 +44,11 @@ disqusShortname = "dvcarrillo"
     icon = "fab fa-flickr fa-2x"
     weight = 3
     url = "https://www.flickr.com/photos/davidvargas996/"
+[[params.social]]
+    name = "Contact"
+    icon = "fas fa-envelope-square"
+    weight = 3
+    url = "mailto:dv.carrillo@yahoo.com"
 # [[params.social]]
 #     name = "Twitter"
 #     icon = "fab fa-twitter fa-2x"
@@ -54,7 +59,8 @@ disqusShortname = "dvcarrillo"
 [languages]
     [languages.en]
         languagename = "English"
-        footercontent = "Want to know more? Contact me!"
+        footercontent = "My website is still under heavy development. Stay tuned!"
+        # footercontent = "Want to know more? Contact me!"
 
         [languages.en.params]
             info = "Software Engineer"
@@ -63,20 +69,20 @@ disqusShortname = "dvcarrillo"
 
         [languages.en.menu] 
 
-            [[languages.en.menu.main]]
-            name = "About"
-            weight = 1.0
-            url = "/about/"
+            # [[languages.en.menu.main]]
+            # name = "About"
+            # weight = 1.0
+            # url = "/about/"
 
-            [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 2.0
-            url = "/posts/"
+            # [[languages.en.menu.main]]
+            # name = "Blog"
+            # weight = 2.0
+            # url = "/posts/"
 
-            [[languages.en.menu.main]]
-            name = "Projects"
-            weight = 3.0
-            url = "/projects/"
+            # [[languages.en.menu.main]]
+            # name = "Projects"
+            # weight = 3.0
+            # url = "/projects/"
 
             [[languages.en.menu.main]]
             name = "Contact me"
@@ -85,7 +91,8 @@ disqusShortname = "dvcarrillo"
 
     [languages.es]
         languagename = "Español"
-        footercontent = "¿Quieres saber más sobre mí? ¡Hablemos!"
+        footercontent = "Mi sitio aún está en pleno desarrollo. ¡Vuelva pronto para más!"
+        # footercontent = "¿Quieres saber más sobre mí? ¡Hablemos!"
 
         [languages.es.params]
             info = "Ingeniero de Software"
@@ -94,20 +101,20 @@ disqusShortname = "dvcarrillo"
 
         [languages.es.menu]
 
-            [[languages.es.menu.main]]
-            name = "Sobre mí"
-            weight = 1.0
-            url = "/es/about/"
+            # [[languages.es.menu.main]]
+            # name = "Sobre mí"
+            # weight = 1.0
+            # url = "/es/about/"
 
-            [[languages.es.menu.main]]
-            name = "Blog"
-            weight = 2.0
-            url = "es/posts/"
+            # [[languages.es.menu.main]]
+            # name = "Blog"
+            # weight = 2.0
+            # url = "es/posts/"
 
-            [[languages.es.menu.main]]
-            name = "Proyectos"
-            weight = 3.0
-            url = "/es/projects/"
+            # [[languages.es.menu.main]]
+            # name = "Proyectos"
+            # weight = 3.0
+            # url = "/es/projects/"
 
             [[languages.es.menu.main]]
             name = "Contacto"
