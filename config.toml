@@ -38,7 +38,7 @@ disqusShortname = "dvcarrillo"
     name = "LinkedIn"
     icon = "fab fa-linkedin fa-2x"
     weight = 2
-    url = "https://gitlab.com/dvcarrillo/"
+    url = "https://www.linkedin.com/in/dvcarrillo/"
 [[params.social]]
     name = "Flickr"
     icon = "fab fa-flickr fa-2x"
