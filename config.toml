@@ -1,4 +1,4 @@
-baseurl = "https://www.dvcarrillo.ninja"
+baseurl = "https://dvcarrillo.ninja"
 title = "David Vargas Carrillo"
 theme = "coder"
 languagecode = "en"
@@ -44,11 +44,11 @@ disqusShortname = "dvcarrillo"
     icon = "fab fa-flickr fa-2x"
     weight = 3
     url = "https://www.flickr.com/photos/davidvargas996/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 4
-    url = "https://twitter.com/hardcorewilldie/"
+# [[params.social]]
+#     name = "Twitter"
+#     icon = "fab fa-twitter fa-2x"
+#     weight = 4
+#     url = "https://twitter.com/.../"
 
 # Multilingual mode
 [languages]
