@@ -1,7 +1,7 @@
 # My personal website
 
 Personal website developed with [Hugo](https://gohugo.io) and hosted on 
-[GitHub Pages](https://github.com/dvcarrillo/dvcarrillo.github.io). Published at 
+[GitHub Pages](https://github.com/dvcarrillo/dvcarrillo.github.io). Published in 
 [dvcarrillo.ninja](http://www.dvcarrillo.ninja).
 
 ## Compiling
