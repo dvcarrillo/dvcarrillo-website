@@ -29,7 +29,7 @@ instalar diferentes distribuciones Linux en el antiguo ordenador familiar.
 Sí, la fastidié una vez intentando instalar Gentoo sin ningún tutorial...
 
 {{< imgproc "images/linux-counter" Resize "200x" >}}
-Recuerdas Linux Counter? Este era mi número
+Recuerdas Linux Counter? Este es mi número
 {{< /imgproc >}}
 
 Todo esto sólo podía tener un final posible: estudiar Ingeniería

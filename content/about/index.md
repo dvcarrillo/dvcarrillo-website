@@ -29,7 +29,7 @@ started installing different Linux *distros* on the old family computer.
 Yes, I broke it once trying to install Gentoo without any manual...
 
 {{< imgproc "images/linux-counter" Resize "200x" >}}
-Remember Linux Counter? This was my number
+Remember Linux Counter? This is my number
 {{< /imgproc >}}
 
 All this could only have one possible end: to study Computer Engineering, so I applied for the univeristy of my hometown, which in fact is among the

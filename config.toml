@@ -45,27 +45,27 @@ disqusShortname = "dvcarrillo"
     icon = "fab fa-flickr fa-2x"
     weight = 3
     url = "https://www.flickr.com/photos/davidvargas996/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter-square fa-2x"
-    weight = 4
-    url = "https://twitter.com/.../"
+# [[params.social]]
+#     name = "Twitter"
+#     icon = "fab fa-twitter-square fa-2x"
+#     weight = 4
+#     url = "https://twitter.com/.../"
 [[params.social]]
     name = "Contact"
     icon = "fas fa-envelope-square"
     weight = 5
-    url = "mailto:dv.carrillo@yahoo.com"
+    url = "mailto:hello@dvcarrillo.ninja"
 
 # Multilingual mode
 [languages]
     [languages.en]
         languagename = "English"
-        footercontent = "Want to know more? Contact me!"
+        footercontent = "My website is still under heavy development. Stay tuned!"
 
         [languages.en.params]
             info = "Software Engineer"
-            description = "David Vargas' personal website"
-            keywords = "blog,developer,personal,coder"
+            description = "David Vargas Carrillo's personal website and blog. I speak about software and technology."
+            keywords = "blog,developer,personal,coder,software,technology"
 
         [languages.en.menu] 
 
@@ -74,15 +74,15 @@ disqusShortname = "dvcarrillo"
             weight = 1.0
             url = "/about/"
 
-            [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 2.0
-            url = "/posts/"
+            # [[languages.en.menu.main]]
+            # name = "Blog"
+            # weight = 2.0
+            # url = "/posts/"
 
-            [[languages.en.menu.main]]
-            name = "Projects"
-            weight = 3.0
-            url = "/projects/"
+            # [[languages.en.menu.main]]
+            # name = "Projects"
+            # weight = 3.0
+            # url = "/projects/"
 
             [[languages.en.menu.main]]
             name = "Contact me"
@@ -91,12 +91,12 @@ disqusShortname = "dvcarrillo"
 
     [languages.es]
         languagename = "Español"
-        footercontent = "¿Quieres saber más sobre mí? ¡Hablemos!"
+        footercontent = "Mi sitio aún está en pleno desarrollo. ¡Vuelva pronto para más!"
 
         [languages.es.params]
             info = "Ingeniero de Software"
-            description = "Sitio web personal de David Vargas"
-            keywords = "blog,desarrollo,personal,programación"
+            description = "Sitio web personal y blog de David Vargas Carrillo. Hablo sobre software y tecnología."
+            keywords = "blog,desarrollo,personal,programación,software,tecnologia"
 
         [languages.es.menu]
 
@@ -105,15 +105,15 @@ disqusShortname = "dvcarrillo"
             weight = 1.0
             url = "/es/about/"
 
-            [[languages.es.menu.main]]
-            name = "Blog"
-            weight = 2.0
-            url = "es/posts/"
+            # [[languages.es.menu.main]]
+            # name = "Blog"
+            # weight = 2.0
+            # url = "es/posts/"
 
-            [[languages.es.menu.main]]
-            name = "Proyectos"
-            weight = 3.0
-            url = "/es/projects/"
+            # [[languages.es.menu.main]]
+            # name = "Proyectos"
+            # weight = 3.0
+            # url = "/es/projects/"
 
             [[languages.es.menu.main]]
             name = "Contacto"
