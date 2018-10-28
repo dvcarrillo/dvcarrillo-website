@@ -65,4 +65,3 @@ voluntario internacional en Hingría, gracias también al programa Erasmus.
 - Hablo **inglés de forma fluida**, y tengo el certificado C1 Advanced de la Universidad de Cambridge
 - Hablo **francés** a un nivel medio
 - Empecé a aprender **alemán**
-

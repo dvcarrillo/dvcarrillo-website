@@ -3,6 +3,7 @@ title = "David Vargas Carrillo"
 theme = "coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
+enableRobotsTXT = true
 
 paginate = 20
 canonifyurls = true
