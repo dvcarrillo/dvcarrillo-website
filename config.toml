@@ -45,11 +45,11 @@ disqusShortname = "dvcarrillo"
     icon = "fab fa-flickr fa-2x"
     weight = 3
     url = "https://www.flickr.com/photos/davidvargas996/"
-# [[params.social]]
-#     name = "Twitter"
-#     icon = "fab fa-twitter-square fa-2x"
-#     weight = 4
-#     url = "https://twitter.com/.../"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter-square fa-2x"
+    weight = 4
+    url = "https://twitter.com/.../"
 [[params.social]]
     name = "Contact"
     icon = "fas fa-envelope-square"
@@ -60,7 +60,7 @@ disqusShortname = "dvcarrillo"
 [languages]
     [languages.en]
         languagename = "English"
-        footercontent = "My website is still under heavy development. Stay tuned!"
+        footercontent = "Want to know more? Contact me!"
 
         [languages.en.params]
             info = "Software Engineer"
@@ -74,15 +74,15 @@ disqusShortname = "dvcarrillo"
             weight = 1.0
             url = "/about/"
 
-            # [[languages.en.menu.main]]
-            # name = "Blog"
-            # weight = 2.0
-            # url = "/posts/"
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 2.0
+            url = "/posts/"
 
-            # [[languages.en.menu.main]]
-            # name = "Projects"
-            # weight = 3.0
-            # url = "/projects/"
+            [[languages.en.menu.main]]
+            name = "Projects"
+            weight = 3.0
+            url = "/projects/"
 
             [[languages.en.menu.main]]
             name = "Contact me"
@@ -91,7 +91,7 @@ disqusShortname = "dvcarrillo"
 
     [languages.es]
         languagename = "Español"
-        footercontent = "Mi sitio aún está en pleno desarrollo. ¡Vuelva pronto para más!"
+        footercontent = "¿Quieres saber más sobre mí? ¡Hablemos!"
 
         [languages.es.params]
             info = "Ingeniero de Software"
@@ -105,15 +105,15 @@ disqusShortname = "dvcarrillo"
             weight = 1.0
             url = "/es/about/"
 
-            # [[languages.es.menu.main]]
-            # name = "Blog"
-            # weight = 2.0
-            # url = "es/posts/"
+            [[languages.es.menu.main]]
+            name = "Blog"
+            weight = 2.0
+            url = "es/posts/"
 
-            # [[languages.es.menu.main]]
-            # name = "Proyectos"
-            # weight = 3.0
-            # url = "/es/projects/"
+            [[languages.es.menu.main]]
+            name = "Proyectos"
+            weight = 3.0
+            url = "/es/projects/"
 
             [[languages.es.menu.main]]
             name = "Contacto"
