@@ -64,3 +64,9 @@ well. Nowadays, I can't wait to live new adventures all around the world!
 - I am **fluent in English** and have a C1 Advanced certificate from the University of Cambridge
 - I speak **French** at an intermediate level
 - I started learning **German**
+
+### More about me
+
+- I keep track of the movies I see on [my IMDb profile](https://www.imdb.com/user/ur65303330/)
+- Also with books on [Goodreads](goodreads.com/dvcarrillo)
+- Find me on [Apple Music](https://itunes.apple.com/profile/dvcarrillo)

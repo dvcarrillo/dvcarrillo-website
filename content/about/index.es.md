@@ -65,3 +65,9 @@ voluntario internacional en Hingría, gracias también al programa Erasmus.
 - Hablo **inglés de forma fluida**, y tengo el certificado C1 Advanced de la Universidad de Cambridge
 - Hablo **francés** a un nivel medio
 - Empecé a aprender **alemán**
+
+### Más sobre mí
+
+- Hago un seguimiento de las películas que veo en [mi perfil de IMDb](https://www.imdb.com/user/ur65303330/)
+- También con libros, en [Goodreads](goodreads.com/dvcarrillo)
+- Encuéntrame en [Apple Music](https://itunes.apple.com/profile/dvcarrillo)
