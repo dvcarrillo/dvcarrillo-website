@@ -3,7 +3,7 @@
 User-agent: Baiduspider
 Disallow: /es/*
 
-User-agent: YandexBot
+User-agent: Yandex
 Disallow: /es/*
 
 User-agent: Sogou web spider
