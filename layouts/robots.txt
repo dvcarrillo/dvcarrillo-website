@@ -1,9 +1,9 @@
 # https://dvcarrillo.ninja robots.txt
 
-User-agent: Baiduspider
+User-agent: Yandex
 Disallow: /es/*
 
-User-agent: Yandex
+User-agent: Baiduspider
 Disallow: /es/*
 
 User-agent: Sogou web spider
