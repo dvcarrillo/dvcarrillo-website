@@ -6,8 +6,8 @@ draft: false
 
 I'll reply as soon as possible!
 
-✉️ Email: [hello@dvcarrillo.ninja](mailto:hello@dvcarrillo.ninja)
+✉️ **Email:** [hello@dvcarrillo.ninja](mailto:hello@dvcarrillo.ninja)
 
-💬 Telegram: [@dvcarrillo](http://telegram.me/dvcarrillo)
+💬 **Telegram:** [@dvcarrillo](http://telegram.me/dvcarrillo)
 
-🌍 Social media: [LinkedIn](https://www.linkedin.com/in/dvcarrillo) and [Twitter](https://twitter.com/.../)
+🌍 **Social media:** [LinkedIn](https://www.linkedin.com/in/dvcarrillo) and [Twitter](https://twitter.com/.../)
