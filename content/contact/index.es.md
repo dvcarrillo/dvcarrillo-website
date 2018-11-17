@@ -4,10 +4,10 @@ date: 2018-10-09T13:46:08+02:00
 draft: false
 ---
 
-¡Responderé lo antes posible!
+Puedes contactarme por las siguientes vías, ¡responderé lo antes posible!
 
-✉️ Email: [hello@dvcarrillo.ninja](mailto:hello@dvcarrillo.ninja)
+✉️ **Email:** [hello@dvcarrillo.ninja](mailto:hello@dvcarrillo.ninja)
 
-💬 Telegram: [@dvcarrillo](http://telegram.me/dvcarrillo)
+💬 **Telegram:** [@dvcarrillo](http://telegram.me/dvcarrillo)
 
-🌍 Redes sociales: [LinkedIn](https://www.linkedin.com/in/dvcarrillo) y [Twitter](https://twitter.com/.../)
+🌍 **Redes sociales:** [LinkedIn](https://www.linkedin.com/in/dvcarrillo) y [Twitter](https://twitter.com/.../)

@@ -1,0 +1,24 @@
+
+{{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get 0)) }}
+{{ .Scratch.Set "image" ($original) }}
+
+    
+{{ $image := .Scratch.Get "image" }}
+
+<style>
+.cont-row {
+    display: inline-flex; 
+    flex-direction: row;
+}
+</style>
+
+<div class = "cont-row">
+    <div class="imgleft" style="width: 35%; margin-right: 30px;">
+        <img src="{{ $image.RelPermalink }}">
+    </div>
+
+    <div class="txtright" style="width: 65%;">
+            {{ .Inner }}
+    </div>
+</div>
+        
