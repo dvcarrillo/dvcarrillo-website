@@ -69,5 +69,5 @@ voluntario internacional en Hingría, gracias también al programa Erasmus.
 ### Más sobre mí
 
 - Hago un seguimiento de las películas que veo en [mi perfil de IMDb](https://www.imdb.com/user/ur65303330/)
-- También con libros, en [Goodreads](goodreads.com/dvcarrillo)
+- También con libros, en [Goodreads](https://www.goodreads.com/dvcarrillo)
 - Encuéntrame en [Apple Music](https://itunes.apple.com/profile/dvcarrillo)

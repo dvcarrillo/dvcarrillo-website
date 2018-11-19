@@ -68,5 +68,5 @@ well. Nowadays, I can't wait to live new adventures all around the world!
 ### More about me
 
 - I keep track of the movies I see on [my IMDb profile](https://www.imdb.com/user/ur65303330/)
-- Also with books on [Goodreads](goodreads.com/dvcarrillo)
+- Also with books on [Goodreads](https://www.goodreads.com/dvcarrillo)
 - Find me on [Apple Music](https://itunes.apple.com/profile/dvcarrillo)
