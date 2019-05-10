@@ -32,7 +32,7 @@ Yes, I broke it once trying to install Gentoo without any manual...
 Remember Linux Counter? This is my number
 {{< /imgproc >}}
 
-All this could only have one possible end: to study Computer Engineering, so I applied for the univeristy of my hometown, which in fact is among the
+All this could only have one possible end: to study Computer Engineering, so I applied for the university of my hometown, which in fact is among the
 [32 best in the world](https://www.elconfidencial.com/tecnologia/ciencia/2017-08-18/granada-ingenieria-informatica_1430045/). 
 I created my [GitHub account](https://github.com/dvcarrillo) shortly
 after I entered college and I started uploading my projects as soon as I
